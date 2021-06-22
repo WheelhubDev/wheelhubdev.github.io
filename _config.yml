@@ -21,9 +21,7 @@
 title: Wheelhub
 email: mail@wheelhub.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  In a world where humans strive for freedom and independence, we believe that decentralized blockchain technologies are an important milestone in enabling  more diversity for financial products.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.wheelhub.dev"
 github_username:  WheelhubDev
